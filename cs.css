@@ -1,0 +1,24 @@
+body{
+    background-color: #f4f4f4;
+}
+table tr th{
+    padding: 0 20px;
+    background-color: #315cf97d;
+    color:white;
+    text-align: center;
+ 
+    
+}
+    
+
+table tr td{
+    text-align: center;
+    padding: 10px 20px;
+    color: aliceblue;
+}
+table{
+    background-image: url(images/bac2.jpg);
+}
+.dropdown-item:hover{
+    background-color:#315eb973;
+}
